@@ -1,6 +1,5 @@
 # Build Your Own A.I. Investor 2022
-* Simple Python/Machine Learning/Value Investing.
-* With a stock picking A.I. to tie it all together.
+* Simple Python/Machine Learning/Value Investing, with a stock picking A.I. to tie it all together.
 * Build Your Own A.I. Investor materials on Gumroad.
 * www.valueinvestingAI.com
 * https://aiinvestor.gumroad.com/l/BYOaiinvestor
