@@ -2,7 +2,7 @@
 * Simple Python/Machine Learning/Value Investing, with a stock picking A.I. to tie it all together.
 * Build Your Own A.I. Investor materials on Gumroad.
 * www.valueinvestingAI.com
-* https://aiinvestor.gumroad.com/l/BYOaiinvestor
+* https://aiinvestor.gumroad.com/l/BuildYourOwnAIInvestor
 
 ## Who is this for?
 * People who follow the book/videos
